@@ -1,0 +1,10 @@
+# RTP config file
+
+no-permission-msg: '&cPermission Denied!'
+rtp-message: '&aRandomly teleported!'
+
+# RTP delay in seconds (default 5 minutes)
+rtp-delay: 300
+
+allowed_worlds:
+   - world
